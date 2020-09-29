@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Rana - aka [Muhammad Rana][website] 👋
 
 [![Website](https://img.shields.io/website?label=muhammadrana.surge.sh&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muhammadrana.surge.sh)
-[![Twitter Follow](https://img.shields.io/twitter/follow/muhammadrana523?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=muhammadrana523)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rajpootrana99?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rajpootrana99)
 ## I'm a Mobile & Web Application Developer!
 
 - 🔭 I’m currently working on [Django Course]!
@@ -71,7 +71,7 @@ I strongly belive we the professionals of tech industry need to learn and innova
 
 Happy coding !!
 
-[website]: https://
-[twitter]: https://twitter.com/muhammadrana99
+[website]: https://muhammadrana.surge.sh
+[twitter]: https://twitter.com/rajpootrana99
 [instagram]: https://instagram.com/rajpootrana99
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/rajpootrana99
